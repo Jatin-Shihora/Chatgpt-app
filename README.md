@@ -1,5 +1,5 @@
 # ChatGPT-App
-Introducing the ChatGPT mobile app, powered by the cutting-edge GPT-3.5 language model! Our app lets you engage in natural language conversations with ChatGPT, the AI-powered chatbot, right on your smartphone. With its vast knowledge base, ChatGPT can answer your questions, help with your homework, or just have a friendly chat with you.
+Introducing the ChatGPT mobile app, powered by the cutting-edge GPT-3.5 language model! This app lets you engage in natural language conversations with ChatGPT, the AI-powered chatbot, right on your smartphone. With its vast knowledge base, ChatGPT can answer your questions, help with your homework, or just have a friendly chat with you.
 
 ## Android Compose App
 
@@ -14,7 +14,7 @@ Introducing the ChatGPT mobile app, powered by the cutting-edge GPT-3.5 language
 - OKHTTP 
 - Google Repository mode）
 
-### Here's what you can expect from our initial release:
+### Features offered by ChatGPT-App:
 
 - A sleek, modern design optimized for your mobile device, making it easy and enjoyable to use.
 - Seamless and natural conversations with ChatGPT, including contextual chat capabilities for a more personalized experience.
@@ -32,7 +32,11 @@ I am excited to bring ChatGPT to your fingertips and can't wait for you to try i
 ## License
 
 ```
-Copyright 2023 Jatin Shihora
+               Copyright 2023 Jatin Shihora
+
+               GNU GENERAL PUBLIC LICENSE
+                  Version 3, 29 June 2007
+
 Licensed under the GPL License, Version 3.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
