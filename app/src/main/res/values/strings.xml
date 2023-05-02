@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ChatGPT</string>
+    <string name="app_title">ChatGPT</string>
+    <string name="error_tips">Error Tips :</string>
+    <string name="btn_send">Send</string>
+    <string name="bar_session">Session List:</string>
+    <string name="bar_new_session">New Session</string>
+    <string name="bar_session_item">Session</string>
+    <string name="more_templates_create">Save as Template</string>
+    <string name="more_template_list">Template List</string>
+    <string name="more_clear">Clear Current Session</string>
+
+    <string name="dialog_confirm">Confirm</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="change_key">Change API Key</string>
+    <string name="recommend_content">We might be able to work together after all. So, what is your API key? To prevent the circumstance where the current key is unavailable, I propose that you use the openai key you applied for.</string>
+
+    <string name="dialog_template_empty_tips">I need your name to be saved</string>
+    <string name="dialog_api_empty_tips">Its sad that you arent give me your api key, I thought our vibe matched :(</string>
+    <string name="dialog_template_add_tips">You must first send some messages in the current session</string>
+    <string name="dialog_save_success_tips">Saved successfully</string>
+    <string name="dialog_key_change_tips">Changed successfully</string>
+    <string name="apply">Apply Address</string>
+
+    <string name="address">PROJECT ADDRESS(Jatin aka Cosmic)</string>
+    <string name="climate_caution">Do you know how Chatgpt is not climate friendly? In fact, practically all major language models are ineffective in terms of climate control measures. Recently, one of my friends wrote on this issue, which you may read by clicking this text!! </string>
+</resources>

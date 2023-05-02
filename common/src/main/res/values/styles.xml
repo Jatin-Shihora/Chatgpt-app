@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="RoundDialogTheme" parent="@android:style/Theme.Dialog">
+        <!-- frame -->
+        <item name="android:windowFrame">@null</item>
+        <!-- Whether to float above the activity -->
+        <item name="android:windowIsFloating">true</item>
+        <!-- translucent -->
+        <item name="android:windowIsTranslucent">true</item>
+        <!-- Untitled -->
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">@android:color/transparent</item>
+        <!-- transparent background -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!-- Vague -->
+        <item name="android:backgroundDimEnabled">true</item>
+        <!-- mask layer -->
+        <item name="android:backgroundDimAmount">0.5</item>
+    </style>
+</resources>
